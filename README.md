@@ -1,0 +1,5 @@
+Alpha-Beta Pruning Library for Java. Since a long time I have been creating games with AI computer opponents, e.g. Chess, Tic-tac-toe and Gomoku. Each time I used the Alpha-beta pruning algorithm and each time I coded the algorithm anew to match the gamesâ specific features. In fact, it is possible to save a lot of coding time by using the same class for a broad variety of board games. Thatâs why I created an open source library for the Alpha-beta pruning algorithm. Here it is:, Published by DjConsti - 20 year old student of Business Informatics in Vienna. Working on BomberPortal since 2011. 2. January 2015.
+
+Original website: http://www.bomberportal.com/blog/?p=12
+
+Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.
